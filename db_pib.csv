@@ -1,5 +1,3 @@
-﻿"Tabela 1737 - IPCA - Série histórica com número-índice, variação mensal e variações acumuladas em 3 meses, em 6 meses, no ano e em 12 meses (a partir de dezembro/1979)"
-"Variável - IPCA - Número-índice (base: dezembro de 1993 = 100) (Número-índice)"
 "Nível";"Cód.";"";"Mês";""
 "BR";"1";"Brasil";"janeiro 2004";"2246,4300000000000"
 "BR";"1";"Brasil";"fevereiro 2004";"2260,1300000000000"
@@ -258,24 +256,3 @@
 "BR";"1";"Brasil";"março 2025";"7245,3800000000000"
 "BR";"1";"Brasil";"abril 2025";"7276,5400000000000"
 "BR";"1";"Brasil";"maio 2025";"7295,4600000000000"
-"Fonte: IBGE - Índice Nacional de Preços ao Consumidor Amplo"
-
-"Notas"
-"1 - Período de coleta ajustado ao mês civil (do primeiro ao trigésimo dia de cada mês), para os meses anteriores a março de 1986."
-""
-"Legenda"
-"Símbolo";"Significado"
-"-";"Zero absoluto, não resultante de um cálculo ou arredondamento.
-Ex: Em determinado município não existem pessoas de 14 anos de idade sem instrução."
-"0";"Zero resultante de um cálculo ou arredondamento.
-Ex: A inflação do feijão em determinada Região Metropolitana foi 0.
-Determinado município produziu 400 kg de sementes de girassol e os dados da tabela são expressos em toneladas."
-"X";"Valor inibido para não identificar o informante.
-Ex: Determinado município só possui uma empresa produtora de cimento, logo o valor de sua produção deve ser inibido."
-"..";"Valor não se aplica.
-Ex: Não se pode obter o total da produção agrícola em determinado município quando os produtos agrícolas são contabilizados com unidades de medida distintas."
-"...";"Valor não disponível.
-Ex: A produção de feijão em determinado município não foi pesquisada ou determinado município não existia no ano da pesquisa."
-"A a Z
-(exceto X)";"Significa uma faixa de valores. Varia em função da tabela (se for o caso).
-Ex: O nível de precisão da produção estimada de combustíveis está na faixa A (95 a 100%)"
