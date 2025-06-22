@@ -1,5 +1,3 @@
-﻿"Tabela 5606 - Massa de rendimento mensal real das pessoas de 14 anos ou mais de idade ocupadas na semana de referência com rendimento de trabalho, habitualmente e efetivamente recebidos em todos os trabalhos"
-"Variável - Massa de rendimento mensal real das pessoas de 14 anos ou mais de idade ocupadas na semana de referência com rendimento de trabalho, efetivamente recebido em todos os trabalhos"
 "Nível";"Cód.";"";"Trimestre";""
 "BR";"1";"Brasil";"1º trimestre 2012";"268455";"Milhões de Reais"
 "BR";"1";"Brasil";"2º trimestre 2012";"256549";"Milhões de Reais"
@@ -54,28 +52,3 @@
 "BR";"1";"Brasil";"3º trimestre 2024";"342832";"Milhões de Reais"
 "BR";"1";"Brasil";"4º trimestre 2024";"358796";"Milhões de Reais"
 "BR";"1";"Brasil";"1º trimestre 2025";"376952";"Milhões de Reais"
-"Fonte: IBGE - Pesquisa Nacional por Amostra de Domicílios Contínua trimestral"
-
-"Notas"
-"A partir do 4º trimestre de 2015, em acordo com as recomendações da 19ª Conferência Internacional de Estatísticos do Trabalho - CIET, da OIT, pessoas em licença remunerada, independentemente do tempo de afastamento, passaram a ser classificadas como ""ocupadas"" e seus rendimentos do trabalho foram coletados normalmente. Anteriormente, as pessoas em licença remunerada na semana de referência da pesquisa e que estavam afastadas por período inferior a 4 meses eram classificadas como ""ocupadas"". Caso esse afastamento fosse igual ou superior a 4 meses, essas pessoas eram definidas como ""fora da força de trabalho"" e, portanto, não se investigava o rendimento do trabalho.
-Além disso, a partir do 4º trimestre de 2015, também passaram a ser classificadas como ""ocupadas"" as pessoas que ajudaram, sem receber remuneração, no trabalho remunerado de parente, adicionalmente àquelas que ajudaram no trabalho remunerado de outro morador do mesmo domicílio. Anteriormente, eram consideradas ""ocupadas"" apenas as pessoas que ajudaram, sem receber remuneração, no trabalho remunerado de outro morador do mesmo domicílio.
-O valor efetivo se refere ao valor recebido no mês anterior ao da coleta.
-Para cálculo do valor real é utilizado o deflator da média do último trimestre de coleta divulgado, conforme a Nota Técnica (maio/2015 - atualizada em 16/10/2018).
-A partir de 30 de novembro de 2021, essas estimativas passaram a ser divulgadas com base no novo método de ponderação da pesquisa, conforme a Nota Técnica 03/2021. Consequentemente, a série histórica deste indicador foi atualizada."
-""
-"Legenda"
-"Símbolo";"Significado"
-"-";"Zero absoluto, não resultante de um cálculo ou arredondamento.
-Ex: Em determinado município não existem pessoas de 14 anos de idade sem instrução."
-"0";"Zero resultante de um cálculo ou arredondamento.
-Ex: A inflação do feijão em determinada Região Metropolitana foi 0.
-Determinado município produziu 400 kg de sementes de girassol e os dados da tabela são expressos em toneladas."
-"X";"Valor inibido para não identificar o informante.
-Ex: Determinado município só possui uma empresa produtora de cimento, logo o valor de sua produção deve ser inibido."
-"..";"Valor não se aplica.
-Ex: Não se pode obter o total da produção agrícola em determinado município quando os produtos agrícolas são contabilizados com unidades de medida distintas."
-"...";"Valor não disponível.
-Ex: A produção de feijão em determinado município não foi pesquisada ou determinado município não existia no ano da pesquisa."
-"A a Z
-(exceto X)";"Significa uma faixa de valores. Varia em função da tabela (se for o caso).
-Ex: O nível de precisão da produção estimada de combustíveis está na faixa A (95 a 100%)"
