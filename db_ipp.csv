@@ -1,5 +1,3 @@
-﻿"Tabela 6903 - Índice de Preços ao Produtor, por tipo de índice, indústria geral, indústrias extrativas e indústrias de transformação e atividades (dezembro de 2018 = 100)"
-"Variável - IPP - Número-índice (dezembro de 2018 = 100)"
 "Nível";"Cód.";"";"Mês";"Indústria geral, indústrias extrativas e indústrias de transformação e atividades (CNAE 2.0)";""
 "BR";"1";"Brasil";"janeiro 2012";"Indústria Geral";"-";"Número-índice"
 "BR";"1";"Brasil";"fevereiro 2012";"Indústria Geral";"-";"Número-índice"
@@ -160,24 +158,6 @@
 "BR";"1";"Brasil";"janeiro 2025";"Indústria Geral";"173,03038";"Número-índice"
 "BR";"1";"Brasil";"fevereiro 2025";"Indústria Geral";"172,82696";"Número-índice"
 "BR";"1";"Brasil";"março 2025";"Indústria Geral";"171,79062";"Número-índice"
-"Fonte: IBGE - Índice de Preços ao Produtor"
-
-"Notas"
-"1 - A atividade 20B corresponde ao grupo 20.6 da divisão 20 (Fabricação de produtos químicos) da CNAE 2.0;"
-"2 - A atividade 20C corresponde aos demais grupos da divisão 20."
-"3 - As séries das indústrias extrativas e, consequentemente, da indústria geral (ou indústrias extrativas e de transformação) estão disponíveis a partir de dezembro de 2013, com o cálculo das variações a partir de janeiro de 2014."
-""
-"Legenda"
-"Símbolo";"Significado"
-"-";"Zero absoluto, não resultante de um cálculo ou arredondamento.
-Ex: Em determinado município não existem pessoas de 14 anos de idade sem instrução."
-"0";"Zero resultante de um cálculo ou arredondamento.
-Ex: A inflação do feijão em determinada Região Metropolitana foi 0.
-Determinado município produziu 400 kg de sementes de girassol e os dados da tabela são expressos em toneladas."
-"X";"Valor inibido para não identificar o informante.
-Ex: Determinado município só possui uma empresa produtora de cimento, logo o valor de sua produção deve ser inibido."
-"..";"Valor não se aplica.
-Ex: Não se pode obter o total da produção agrícola em determinado município quando os produtos agrícolas são contabilizados com unidades de medida distintas."
 "...";"Valor não disponível.
 Ex: A produção de feijão em determinado município não foi pesquisada ou determinado município não existia no ano da pesquisa."
 "A a Z
