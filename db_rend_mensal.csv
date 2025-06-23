@@ -1,5 +1,3 @@
-﻿"Tabela 6390 - Rendimento médio mensal real e nominal das pessoas de 14 anos ou mais de idade ocupadas na semana de referência com rendimento de trabalho, habitualmente recebido em todos os trabalhos - Total, coeficiente de variação, variações em relação aos três trimestres móveis anteriores e ao mesmo trimestre móvel do ano anterior"
-"Variável - Rendimento médio mensal real das pessoas de 14 anos ou mais de idade ocupadas na semana de referência com rendimento de trabalho, habitualmente recebido em todos os trabalhos"
 "Nível";"Cód.";"";"Trimestre Móvel";""
 "BR";"1";"Brasil";"jan-fev-mar 2012";"2999";"Reais"
 "BR";"1";"Brasil";"fev-mar-abr 2012";"3010";"Reais"
@@ -158,28 +156,3 @@
 "BR";"1";"Brasil";"nov-dez-jan 2025";"3414";"Reais"
 "BR";"1";"Brasil";"dez-jan-fev 2025";"3427";"Reais"
 "BR";"1";"Brasil";"jan-fev-mar 2025";"3436";"Reais"
-"Fonte: IBGE - Pesquisa Nacional por Amostra de Domicílios Contínua mensal"
-
-"Notas"
-"Para as variáveis ""Situação da Variação em relação (...)"": 'Z' indica significância estatística considerando 95% de confiança; 'A' indica ausência de significância estatística considerando 95% de confiança.
-A partir do 4º trimestre de 2015, em acordo com as recomendações da 19ª Conferência Internacional de Estatísticos do Trabalho - CIET, da OIT, pessoas em licença remunerada, independentemente do tempo de afastamento, passaram a ser classificadas como ""ocupadas"" e seus rendimentos do trabalho foram coletados normalmente. Anteriormente, as pessoas em licença remunerada na semana de referência da pesquisa e que estavam afastadas por período inferior a 4 meses eram classificadas como ""ocupadas"". Caso esse afastamento fosse igual ou superior a 4 meses, essas pessoas eram definidas como ""fora da força de trabalho"" e, portanto, não se investigava o rendimento do trabalho.
-Além disso, a partir do 4º trimestre de 2015, também passaram a ser classificadas como ""ocupadas"" as pessoas que ajudaram, sem receber remuneração, no trabalho remunerado de parente, adicionalmente àquelas que ajudaram no trabalho remunerado de outro morador do mesmo domicílio. Anteriormente, eram consideradas ""ocupadas"" apenas as pessoas que ajudaram, sem receber remuneração, no trabalho remunerado de outro morador do mesmo domicílio.
-Para cálculo do valor real é utilizado o deflator da média do último trimestre de coleta divulgado, conforme a Nota Técnica (maio/2015 - atualizada em 16/10/2018).
-A partir de 30 de novembro de 2021, essas estimativas passaram a ser divulgadas com base no novo método de ponderação da pesquisa, conforme a Nota Técnica 03/2021. Consequentemente, a série histórica deste indicador foi atualizada."
-""
-"Legenda"
-"Símbolo";"Significado"
-"-";"Zero absoluto, não resultante de um cálculo ou arredondamento.
-Ex: Em determinado município não existem pessoas de 14 anos de idade sem instrução."
-"0";"Zero resultante de um cálculo ou arredondamento.
-Ex: A inflação do feijão em determinada Região Metropolitana foi 0.
-Determinado município produziu 400 kg de sementes de girassol e os dados da tabela são expressos em toneladas."
-"X";"Valor inibido para não identificar o informante.
-Ex: Determinado município só possui uma empresa produtora de cimento, logo o valor de sua produção deve ser inibido."
-"..";"Valor não se aplica.
-Ex: Não se pode obter o total da produção agrícola em determinado município quando os produtos agrícolas são contabilizados com unidades de medida distintas."
-"...";"Valor não disponível.
-Ex: A produção de feijão em determinado município não foi pesquisada ou determinado município não existia no ano da pesquisa."
-"A a Z
-(exceto X)";"Significa uma faixa de valores. Varia em função da tabela (se for o caso).
-Ex: O nível de precisão da produção estimada de combustíveis está na faixa A (95 a 100%)"
